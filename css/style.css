@@ -1,0 +1,13 @@
+body{
+    background-image: url("../img/ground3.jpg");
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+@media only screen and (min-width: 1000px) {
+    #media{
+      margin-left: 50px;
+    }
+  }
